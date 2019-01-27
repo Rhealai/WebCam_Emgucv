@@ -1,0 +1,5 @@
+C:\Documents and Settings\RioSim\桌面\MyWebCam\MyWebCam\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\RioSim\桌面\MyWebCam\MyWebCam\obj\x86\Release\MyWebCam.Form1.resources
+C:\Documents and Settings\RioSim\桌面\MyWebCam\MyWebCam\obj\x86\Release\MyWebCam.Properties.Resources.resources
+C:\Documents and Settings\RioSim\桌面\MyWebCam\MyWebCam\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\RioSim\桌面\MyWebCam\MyWebCam\obj\x86\Release\GenerateResource.write.1.tlog
